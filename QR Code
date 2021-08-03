@@ -2,3 +2,7 @@ import qrcode
 
 img = qrcode.make("")
 img.save("qrc.jpeg")
+
+//This was made in Python using PyCharm. Download the following in the terminal: 
+//pip install qrcode 
+//pip install Pillow

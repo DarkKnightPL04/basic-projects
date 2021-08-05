@@ -1,0 +1,4 @@
+name = input("What is your name?")
+print ("Hello"+ name)
+
+##This is either a challenge or a tutorial in the 1 hour Python tutorial by Mosh Hamedani

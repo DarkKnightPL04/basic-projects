@@ -1,0 +1,9 @@
+print(10 + 3) ##addition
+print(10 - 3) ##subtraction
+print(10 * 3) ##muliplication
+print(10 ** 3) ##exponent
+print(10 / 3) ##division
+print(10 // 3) ##division (whole number)
+print(10 % 3) ##remander
+
+##This is either a challenge or a tutorial in the 1 hour Python tutorial by Mosh Hamedani

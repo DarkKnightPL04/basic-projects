@@ -1,0 +1,6 @@
+price = 5
+print(price > 10 and price < 30) ##both are true
+print(price > 100 or price < 10) ##atleast one is true
+print(not price == 5) ##none are true
+
+##This is either a challenge or a tutorial in the 1 hour Python tutorial by Mosh Hamedani

@@ -1,0 +1,11 @@
+w = input("Weight: ")
+t = input("lbs or kg: ")
+
+if t.upper == "lbs":
+    c = int(w) * .45
+    print("Your weight in kilograms is",float(c),"kilos")
+else:
+    c = int(w) / .45
+    print("Your weight in pounds is",float(c),"pounds")
+    
+  ##This is either a challenge or a tutorial in the 1 hour Python tutorial by Mosh Hamedani

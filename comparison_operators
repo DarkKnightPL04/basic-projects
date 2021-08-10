@@ -1,0 +1,7 @@
+a = 3 >= 2 ##greater-than or equal too
+b = 3 <= 2 ##less-than or equal too
+c = 3 == 2 ##equal too
+d = 3 != 2 ##not equal too
+print(a, b, c, d,)
+
+##This is either a challenge or a tutorial in the 1 hour Python tutorial by Mosh Hamedani

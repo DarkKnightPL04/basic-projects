@@ -1,0 +1,5 @@
+course = "Python for Beginners"
+print(course.replace("for", "4"))
+print("Python" in course)
+
+##This is either a challenge or a tutorial in the 1 hour Python tutorial by Mosh Hamedani

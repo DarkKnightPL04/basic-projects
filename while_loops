@@ -1,0 +1,6 @@
+i = 1
+while i <+ 10:
+    print(i * '*')
+    i = i + 1
+
+##This is either a challenge or a tutorial in the 1 hour Python tutorial by Mosh Hamedani

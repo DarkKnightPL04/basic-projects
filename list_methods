@@ -1,0 +1,10 @@
+numbers = [1, 2, 20, 3, 20, 4, 5]
+numbers.append(6)
+numbers.insert(0, 0)
+numbers.remove(20)
+for item in numbers:
+    print(item)
+if 20 in numbers:
+    print("There are", len(numbers) - 7, "20s in the list")
+
+##This is either a challenge or a tutorial in the 1 hour Python tutorial by Mosh Hamedani

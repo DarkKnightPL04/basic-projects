@@ -1,0 +1,10 @@
+numbers = [1, 2, 3, 4, 5]
+for item in numbers:
+    print(item)
+
+i = 0
+while 1 < len(numbers):
+    print(numbers [i])
+    i = i + 1
+
+##This is either a challenge or a tutorial in the 1 hour Python tutorial by Mosh Hamedani
